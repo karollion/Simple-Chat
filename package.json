@@ -1,0 +1,7 @@
+{
+  "name": "Simple-Chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Karol Bernatowicz <karol.bernatowicz@gmail.com>",
+  "license": "MIT"
+}
