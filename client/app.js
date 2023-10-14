@@ -32,7 +32,7 @@ const sendMessage = function (e) {
 		alert('Enter message');
 	} else {
 		addMessage(userName, messageContentInput.value);
-		messageContentInput = '';
+		messageContentInput.value = '';
 	}
 };
 
